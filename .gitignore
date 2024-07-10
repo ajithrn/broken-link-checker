@@ -1,0 +1,44 @@
+# Python virtual environment
+myenv/
+venv/
+env/
+.venv/
+
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# CSV output files
+*.csv
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Compiled Python files
+*.pyc
+
+# Package directories
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
